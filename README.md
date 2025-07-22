@@ -1,6 +1,6 @@
 ```shell
 lunarriaa@githubuser: whoami
-> hi! im luna, a 16 year old trans girl
+> hi! im luna, a 17 year old trans girl
 > im not all too familiar with code but make a effort
 > i was born on july 21st
 > some of my projects are mods for games or custom android images!
